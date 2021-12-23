@@ -6,4 +6,6 @@ This will be my portfolio for interviews in the future. This webpage displays th
 
 This site is ready to have projects added!!
 
-[judecollins github io_Jude-Collins-Portfolio_](https://user-images.githubusercontent.com/91752290/147291659-4cbd7257-cc74-48ac-bc73-04734fe0a3ea.png)
+https://judecollins.github.io/Jude-Collins-Portfolio/
+
+(https://user-images.githubusercontent.com/91752290/147291659-4cbd7257-cc74-48ac-bc73-04734fe0a3ea.png)
