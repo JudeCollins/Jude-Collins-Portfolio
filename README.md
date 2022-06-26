@@ -1,6 +1,6 @@
 # Jude-Collins-Portfolio
 Homework for week 2 GT bootcamp.
- Mainly use of html and css to create an average portfolio page. With practice this portfolio will be uopdated!
+ Mainly use of html and css to create an average portfolio page. With practice this portfolio will be updated!
 Title- Jude Collins full stack developer.
 This will be my portfolio for interviews in the future. This webpage displays the skills I have gained while in this course as well as my own personal research.
 
